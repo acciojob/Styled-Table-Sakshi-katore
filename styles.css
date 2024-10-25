@@ -1,1 +1,17 @@
 /* your code */
+tr:nth-child(even){
+	background-color: #dddddd;
+}
+th{
+	background-color : blue;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: inset;
+}
+th, td {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  
+  padding-right: 90px;
+}
